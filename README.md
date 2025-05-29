@@ -2,6 +2,9 @@
 
 Welcome to my HR Dashboard project. This is a full pipeline project that dives into HR analytics using **MySQL Workbench** for data cleaning and analysis, and **Power BI** for visual storytelling. The data used is a fictional HR dataset with 22,000+ records from 2000 to 2020.
 
+![Hr dashboard2](https://github.com/user-attachments/assets/602ef0ae-1d43-4719-8a5c-8b5316f8fdfe)
+
+
 ---
 
 ### 📊 Tools Used
